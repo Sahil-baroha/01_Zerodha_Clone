@@ -10,12 +10,16 @@ I'm documenting the structure and process to help myself stay organized and avoi
 
 ## 🗂️ Folder Structure
 01_zerodha_clone/
+
 ├── frontend/ #  
 ├── backend/ #  
 
 
 # Git Workflow Notes
 git init                       # Initialize Git
+
 git add .                      # Stage all files
+
 git commit -m "Initial commit"
+
 git checkout -b project-structure  # Create branch for structure
