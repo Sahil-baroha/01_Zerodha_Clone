@@ -23,5 +23,10 @@ dist-ssr
 *.sln
 *.sw?
 
+<<<<<<< HEAD
 /src/components/landing_page/pricing/ClaudeBrok.jsx
 
+=======
+# Ignore ClaudeBrok.jsx
+src/components/landing_page/pricing/ClaudeBrok.jsx
+>>>>>>> Product-Support-PG

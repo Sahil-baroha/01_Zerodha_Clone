@@ -15,6 +15,11 @@
 
    /*! Variable's ---- -  */
    --hx: #424242;
+   --cont : [
+  max-width: 1200px;  /* Not 1280px like max-w-7xl */
+  margin: 0 auto;     /* Centers it */
+  width: 100%;        /* Full width up to max-width */
+   ]
    }
    
    /*
