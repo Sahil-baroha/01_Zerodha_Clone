@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Ignore ClaudeBrok.jsx
+src/components/landing_page/pricing/ClaudeBrok.jsx

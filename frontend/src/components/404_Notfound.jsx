@@ -11,9 +11,11 @@ import React from 'react'
         <p className="text-lg my-5 blunt ">
           Not a Valid Rout
         </p>
-        <button className="w-52 font-semibold text-white text-xl bg-[rgb(56,126,209)] py-2 my-7 rounded-sm hover:bg-black">
+        <a href="/">
+        <button href="/home" className="w-52 font-semibold text-white text-xl bg-[rgb(56,126,209)] py-2 my-7 rounded-sm hover:bg-black">
         Home
         </button>
+        </a>
       </div>
     </div>
   )
