@@ -23,4 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-src/components/landingpage/pricing/ClaudeBrok.jsx
+/src/components/landing_page/pricing/ClaudeBrok.jsx
+
