@@ -23,7 +23,4 @@ dist-ssr
 *.sln
 *.sw?
 
-/src/components/landing_page/pricing/ClaudeBrok.jsx
-
-# Ignore ClaudeBrok.jsx
-src/components/landing_page/pricing/ClaudeBrok.jsx
+ 
