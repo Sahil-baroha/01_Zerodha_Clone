@@ -13,10 +13,9 @@ import { GeneralContextProvider } from "./GeneralContext";
 
 const Dashboard = () => {
   return (
-    <div className="dashboard-container">
       <GeneralContextProvider>
+    <div className="dashboard-container">
         <WatchList/>
-      </GeneralContextProvider>
       <div className="content">
         <Routes>
           <Route exact path="/" element={<Summary />} />
@@ -28,6 +27,7 @@ const Dashboard = () => {
         </Routes>
       </div>
     </div>
+      </GeneralContextProvider>
   );
 };
 
